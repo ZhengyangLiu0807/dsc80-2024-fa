@@ -29,15 +29,6 @@
 # twitter_username: jekyllrb
 # github_username:  jekyll
 
-title: Research on recipe and rating datasets
-email: zhengyangLiu@qq.com
-description: >- # Introduction: This webpage is used to showcase research on recipe and rating datasets. It uses visual displays, hypothesis testing, and various models for prediction. 
-baseurl: "" # the subpath of your site, e.g. /blog
-github_url: "https://github.com/ZhengyangLiu0807" # the base hostname & protocol for your site, e.g.  http://example.com
-url: "https://ZhengyangLiu0807.github.io</code>" 
-twitter_username: jekyllrb
-github_username:  jekyll
-
 # Build settings
 #theme: minima
 #plugins:
