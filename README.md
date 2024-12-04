@@ -28,7 +28,7 @@ This part we delete NMAR values.
 
 Here is the result figure:
 
-<iframe src="assets/hypothesis_testing.html" width=800 height=600 frameBorder=0></iframe>
+<iframe src="hypothesis_testing.html" width=800 height=600 frameBorder=0></iframe>
 ---
 
 ## Framing a Prediction Problem
@@ -40,7 +40,7 @@ Here is the result figure:
 
 Here is the result Mean Squared Error (MSE): 5127.871683313645 and result figure:
 
-<iframe src="assets/baseline_model.html" width=800 height=600 frameBorder=0></iframe>
+<iframe src="baseline_model.html" width=800 height=600 frameBorder=0></iframe>
 
 ---
 
@@ -49,7 +49,7 @@ Here is the result Mean Squared Error (MSE): 5127.871683313645 and result figure
 
 Here is the result Mean Squared Error (MSE): 5127.871683313645 and result figure:
 
-<iframe src="assets/final_model.html" width=800 height=600 frameBorder=0></iframe>
+<iframe src="final_model.html" width=800 height=600 frameBorder=0></iframe>
 
 ---
 
