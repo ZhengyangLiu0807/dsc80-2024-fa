@@ -46,7 +46,7 @@ Here is the result figure:
 
 <iframe src="hypothesis_testing.html" width=800 height=600 frameBorder=0></iframe>
 
-The above section is hypothesis testing to verify whether the relationship between different groups of Rating and minutes is equivalent
+This part is hypothesis testing to verify whether the relationship between different groups of Rating and minutes is equivalent
 
 There are two hypotheses：
 - Null Hypothesis (H0): There is no significant difference in the mean ratings between recipes with short and long cooking times.
@@ -81,7 +81,7 @@ Here is the result Mean Squared Error (MSE): 5127.871683313645 and result figure
 
 <iframe src="final_model.html" width=800 height=600 frameBorder=0></iframe>
 
-The previous section consists of the baseline model and the final model, where two features and linear regression are used in the baseline model; Compared with the baseline model, the final model used four features that removed outliers and a decision tree model, and adjusted the num of the parameter test_size in the train_test_stlit function.
+This part consists of the baseline model and the final model, where two features and linear regression are used in the baseline model; Compared with the baseline model, the final model used four features that removed outliers and a decision tree model, and adjusted the num of the parameter test_size in the train_test_stlit function.
 
 We conducted multiple comparative experiments in the following order, including
 
